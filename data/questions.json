@@ -1,0 +1,57 @@
+[
+  {
+    "id": "q1",
+    "prompt": "Which built-in opens a file for reading?",
+    "choices": {
+      "A": "read()",
+      "B": "open()",
+      "C": "file()",
+      "D": "load()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "q2",
+    "prompt": "What does json.load(f) do?",
+    "choices": {
+      "A": "Writes a Python object to a JSON file",
+      "B": "Parses JSON text from an open file into a Python object",
+      "C": "Converts a string to JSON without a file",
+      "D": "Closes the file after reading"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "q3",
+    "prompt": "Which exception is raised when open() cannot find a file?",
+    "choices": {
+      "A": "ValueError",
+      "B": "TypeError",
+      "C": "FileNotFoundError",
+      "D": "KeyError"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "q4",
+    "prompt": "What does argparse help you build?",
+    "choices": {
+      "A": "A web server",
+      "B": "A command-line interface with flags and options",
+      "C": "A database schema",
+      "D": "A GUI window"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "q5",
+    "prompt": "In pytest, which naming pattern marks a test function?",
+    "choices": {
+      "A": "check_*",
+      "B": "run_*",
+      "C": "test_*",
+      "D": "assert_*"
+    },
+    "answer": "C"
+  }
+]
